@@ -1,0 +1,1 @@
+Using kaggle dataset (https://www.kaggle.com/datasets/shubhamgupta012/titanic-dataset) to practice machine learning model for a classification problem.
